@@ -1,4 +1,4 @@
-drag-me-popup
+drag-popup
 =============
 
-Drag a browser popup dragging a div.
+Drag a browser popup by dragging a div from it.
