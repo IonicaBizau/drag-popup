@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+            div {
+                width: 240px;
+                background: red;
+                font-size: 59px;
+                padding: 80px;
+                color: white;
+                font-family: fantasy;
+                text-shadow: 2px 2px 1px black;
+                cursor: pointer;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="click">Click me!</div>
+        <script>
+            document.getElementById("click").addEventListener("click", function () {
+                window.open("popup.html", "Popup Title", "location=0,status=0,scrollbars=0,width=402,height=253");
+            });
+        </script>
+    </body>
+</html>
