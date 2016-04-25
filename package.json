@@ -1,6 +1,6 @@
 {
   "name": "drag-browser-window",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Drag a browser popup by dragging a div from it.",
   "main": "popup.js",
   "scripts": {
@@ -21,5 +21,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/drag-popup/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/drag-popup#readme"
+  "homepage": "https://github.com/IonicaBizau/drag-popup#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
