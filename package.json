@@ -1,6 +1,6 @@
 {
   "name": "drag-browser-window",
-  "version": "1.1.11",
+  "version": "1.1.12",
   "description": "Drag a browser popup by dragging a div from it.",
   "main": "popup.js",
   "scripts": {
